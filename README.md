@@ -4,6 +4,7 @@
 
 ### Prerequisites
 - Python 3.7 or higher
+- run app.py using command ```streamlit run app.py
 - Required packages: (you can install them using `pip install -r requirements.txt`)
 
 ### Steps
